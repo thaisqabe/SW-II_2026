@@ -1,0 +1,19 @@
+{
+    "produtos": [
+        {
+            "nome": "Lanterna",
+            "preco": 12.99,
+            "quantidade": 20
+        },
+        {
+            "nome": "Canivete",
+            "preco": 25.89,
+            "quantidade": 10
+        },
+        {
+            "nome": "Capa de chuva",
+            "preco": 10.5,
+            "quantidade": 45
+        }
+    ]
+}
